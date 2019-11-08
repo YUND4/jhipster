@@ -1,0 +1,27 @@
+{
+  "jhipsterApp": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "createLabel": "Creeare o nouă entitate Job History",
+        "createOrEditLabel": "Creeare sau editare Job History",
+        "notFound": "No Job Histories found"
+      },
+      "created": "A fost creată o nouă entitate Job History cu identificatorul {{ param }}",
+      "updated": "Job History cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Job History cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Job History {{ id }}?"
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

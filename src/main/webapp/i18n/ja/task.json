@@ -1,0 +1,24 @@
+{
+  "jhipsterApp": {
+    "task": {
+      "home": {
+        "title": "Tasks",
+        "createLabel": "Task を追加",
+        "createOrEditLabel": "Taskを追加または編集",
+        "notFound": "No Tasks found"
+      },
+      "created": "A new Task is created with identifier {{ param }}",
+      "updated": "A Task is updated with identifier {{ param }}",
+      "deleted": "A Task is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Task {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Task"
+      },
+      "title": "Title",
+      "description": "Description",
+      "job": "Job"
+    }
+  }
+}

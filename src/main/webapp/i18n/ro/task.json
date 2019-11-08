@@ -1,0 +1,24 @@
+{
+  "jhipsterApp": {
+    "task": {
+      "home": {
+        "title": "Tasks",
+        "createLabel": "Creeare o nouă entitate Task",
+        "createOrEditLabel": "Creeare sau editare Task",
+        "notFound": "No Tasks found"
+      },
+      "created": "A fost creată o nouă entitate Task cu identificatorul {{ param }}",
+      "updated": "Task cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Task cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Task {{ id }}?"
+      },
+      "detail": {
+        "title": "Task"
+      },
+      "title": "Title",
+      "description": "Description",
+      "job": "Job"
+    }
+  }
+}
